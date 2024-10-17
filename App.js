@@ -1,5 +1,9 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
+import ToDoList from './components/ToDoList';
+import ToDoForm from './components/ToDoForm';
+
+
 
 export default function App() {
   return (
